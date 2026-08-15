@@ -1,2 +1,2 @@
-# dushe
-Dushe iOS app website privacy policy and support.
+# Dusheng
+Dusheng iOS app website privacy policy and support.
